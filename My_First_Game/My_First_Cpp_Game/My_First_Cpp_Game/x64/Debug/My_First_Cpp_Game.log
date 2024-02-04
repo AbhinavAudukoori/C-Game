@@ -1,0 +1,15 @@
+﻿  win32_platform.cpp
+C:\Users\KIIT\Desktop\Game Dev\My_First_Game\My_First_Cpp_Game\My_First_Cpp_Game\renderer.cpp(57,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\KIIT\Desktop\Game Dev\My_First_Game\My_First_Cpp_Game\My_First_Cpp_Game\renderer.cpp(58,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\KIIT\Desktop\Game Dev\My_First_Game\My_First_Cpp_Game\My_First_Cpp_Game\renderer.cpp(59,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+C:\Users\KIIT\Desktop\Game Dev\My_First_Game\My_First_Cpp_Game\My_First_Cpp_Game\renderer.cpp(60,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32_platform.cpp')
+  
+  LINK : C:\Users\KIIT\Desktop\Game Dev\My_First_Game\My_First_Cpp_Game\x64\Debug\My_First_Cpp_Game.exe not found or not built by the last incremental link; performing full link
+  My_First_Cpp_Game.vcxproj -> C:\Users\KIIT\Desktop\Game Dev\My_First_Game\My_First_Cpp_Game\x64\Debug\My_First_Cpp_Game.exe
